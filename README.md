@@ -1,4 +1,4 @@
-# portfolio-website
+# My Portfolio Website
 My personal portfolio website that I built using React.js
 
 # Getting Started with Create React App
